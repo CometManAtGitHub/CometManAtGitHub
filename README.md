@@ -21,3 +21,10 @@ https://github.com/danishshres/ssd_c_api/tree/tf_2
 CometManAtGitHub/CometManAtGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+https://cs231n.github.io/ e.g., https://cs231n.github.io/convolutional-networks/
