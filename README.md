@@ -26,5 +26,16 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+#Learning
 https://cs231n.github.io/ e.g., https://cs231n.github.io/convolutional-networks/
+
+
+
+
+#Ideas
+
+
+#Follow
+
+
+
