@@ -5,13 +5,14 @@
 - 📫 How to reach me: ...
 
 
-Collection of Resources:
+# Collection of Resources:
 
-Object-Detection: Training
+## Object-Detection
+### Object-Detection: Training
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
 https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-Train-Model
 
-Object-Detection: Deploying models in C/C++
+### Object-Detection: Deploying models in C/C++
 https://github.com/AmirulOm/tensorflow_capi_sample
 https://danishshres.medium.com/tensorflow-1-vs-tensorflow-2-c-api-d94982a5eb16
 https://github.com/danishshres/ssd_c_api/tree/tf_2
@@ -26,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-#Learning
-https://cs231n.github.io/ e.g., https://cs231n.github.io/convolutional-networks/
-https://github.com/phlippe/uvadlc_notebooks / https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial17/SimCLR.html
-https://github.com/SkalskiP/courses
+## Learning
+- https://cs231n.github.io/ e.g., https://cs231n.github.io/convolutional-networks/
+- https://github.com/phlippe/uvadlc_notebooks / https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial17/SimCLR.html
+- https://github.com/SkalskiP/courses
 
 
 
