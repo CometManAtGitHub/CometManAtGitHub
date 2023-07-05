@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 #Learning
 https://cs231n.github.io/ e.g., https://cs231n.github.io/convolutional-networks/
-
+https://github.com/phlippe/uvadlc_notebooks / https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial17/SimCLR.html
 https://github.com/SkalskiP/courses
 
 
